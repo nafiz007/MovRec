@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003E7F</color>
+    <color name="colorPrimaryDark">#00254C</color>
+    <color name="colorAccent">#FFBE6B</color>
+    <color name="myTabBarColor">#EEB211</color>
+</resources>

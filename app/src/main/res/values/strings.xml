@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TeamNASAMovieRecommender</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_account">Account</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_search">Search…</string>
+    <string name="in_theaters">In Theaters\nFragment</string>
+    <string name="recommendations">Recommendations\nFragment</string>
+    <string name="favorites">Favorites\nFragment</string>
+    <string name="search">Search\nFragment</string>
+    <string name="forgotPassword"><u>Forgot Password?</u></string>
+    <string name="main_credits">Team NASA (23) - CS 2340\nGeorgia Institute of Technology</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="majors_array">
+        <item>Aerospace Engineering</item>
+        <item>Applied Language and Intercultural Studies</item>
+        <item>Applied Mathematics</item>
+        <item>Applied Physics</item>
+        <item>Architecture</item>
+        <item>Biochemistry</item>
+        <item>Biology</item>
+        <item>Biomedical Engineering</item>
+        <item>Building Construction</item>
+        <item>Business Administration</item>
+        <item>Chemical and Biomolecular Engineering</item>
+        <item>Chemistry</item>
+        <item>Civil Engineering</item>
+        <item>Computational Media</item>
+        <item>Computer Engineering</item>
+        <item>Computer Science</item>
+        <item>Discrete Mathematics</item>
+        <item>Earth and Atmospheric Sciences</item>
+        <item>Economics</item>
+        <item>Economics and International Affairs</item>
+        <item>Electrical Engineering</item>
+        <item>Environmental Engineering</item>
+        <item>Global Economics and Modern Languages</item>
+        <item>History, Technology, and Society</item>
+        <item>Industrial Design</item>
+        <item>Industrial Engineering</item>
+        <item>International Affairs</item>
+        <item>International Affairs and Modern Language</item>
+        <item>Literature, Media, and Communication</item>
+        <item>Materials Science and Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Nuclear and Radiological Engineering</item>
+        <item>Physics</item>
+        <item>Psychology</item>
+        <item>Public Policy</item>
+    </string-array>
+</resources>
